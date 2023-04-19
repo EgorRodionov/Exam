@@ -1,0 +1,7 @@
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\obj\Debug\Program_Rodionov.csprojResolveAssemblyReference.cache
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\obj\Debug\Program_Rodionov.csproj.CoreCompileInputs.cache
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\bin\Debug\Program_Rodionov.exe.config
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\bin\Debug\Program_Rodionov.exe
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\bin\Debug\Program_Rodionov.pdb
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\obj\Debug\Program_Rodionov.exe
+C:\Users\stu-pkspk219\Desktop\Exam\Program\Program_Rodionov\Program_Rodionov\obj\Debug\Program_Rodionov.pdb
